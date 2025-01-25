@@ -16,7 +16,7 @@ This Power BI dashboard provides a comprehensive analysis of Uniqlo's expansion 
 ### External Analysis
 - Competitive landscape assessment
 - Regional market share analysis
-- Comparative brand performance
+- Comparative brand performance (Zara,H&M and Mango)
 
 ## Dashboard Highlights
 - Quarterly sales trends
