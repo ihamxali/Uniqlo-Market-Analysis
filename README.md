@@ -4,8 +4,8 @@
 This Power BI dashboard provides a comprehensive analysis of Uniqlo's expansion strategy in France, leveraging sales and market data to inform strategic decision-making.
 
 ## Data Sources
-- `Clothing_store_data.csv`: Uniqlo's sales transactions across France
-- `Clothing_store_turnover_brands.csv`: Competitor market data
+- `clothing_store_data(3) (2) (1).xlsx`: Uniqlo's sales transactions across France
+- `clothing_store_turnover_brands.xlsx`: Competitor market data
 
 ## Key Analyses
 ### Internal Analysis
